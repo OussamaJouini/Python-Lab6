@@ -86,5 +86,9 @@ def displayObject(obj,x,y):
         objlength +=1
 
 
-
-
+def testDisplayObject ()
+    xTest = int(input("Please provide us the x coordinate: "))
+    yTest = int(input("Please provide us the y coordinate: "))
+    objTest =input ("Please provide us the object you would like to display: ")
+    displayObject(objTest,xTest,yTest)
+    
